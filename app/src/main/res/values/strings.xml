@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Auto link Practice</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="autoLink_test">
+        Name: Rakibul islam \n
+        Mobile: 01756039787 \n
+        Email: rakibpaholan9999@gmail.com \n
+        Web Site: www.google.com \n
+        Map: geo:23.76173898028779, 90.43348109903398
+    </string>
+
+</resources>
